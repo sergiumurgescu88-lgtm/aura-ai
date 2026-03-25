@@ -1,0 +1,8 @@
+{
+  "name": "Aura AI",
+  "description": "The Ultimate AI Influencer & Character Management Platform. Create, manage, and monetize AI personas with advanced content generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
